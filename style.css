@@ -27,11 +27,13 @@ header
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
 header .logo
 {
     position: relative;
-    max-width: 200px;   
+    max-width: 200px;
+    
 }
 header ul
 {
