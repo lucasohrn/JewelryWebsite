@@ -28,12 +28,12 @@ header
     justify-content: space-between;
     align-items: center;
 
+    
 }
 header .logo
 {
     position: relative;
     max-width: 200px;
-    
 }
 header ul
 {
