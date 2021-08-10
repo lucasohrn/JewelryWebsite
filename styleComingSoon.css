@@ -1,0 +1,16 @@
+html 
+{
+  height: 100%;
+}
+
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+
+body
+{
+  background-size: cover;
+  background-image: url(images/387613.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
