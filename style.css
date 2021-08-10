@@ -52,6 +52,7 @@ header ul li a
     margin-left: 40px;
     text-decoration: none;
 }
+
 .content
 {
     position: relative;
@@ -60,6 +61,7 @@ header ul li a
     justify-content: space-between;
     align-items: center;
 }
+
 .content .textBox
 {
     position: relative;
