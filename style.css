@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 section
 {
@@ -26,9 +26,7 @@ header
     padding: 20px 100px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-
-    
+    align-items: center;    
 }
 header .logo
 {
@@ -67,7 +65,7 @@ header ul li a
 }
 .content .textBox h2
 {
-    color: #333;
+    color: rgb(115, 157, 190);
     font-size: 3.8em;
     line-height: 1.4em;
     font-weight: 500;
@@ -167,7 +165,7 @@ header ul li a
 }
 .circle2
 {
-    position: absolute;
+    position: static;
     top: 0;
     left: 0;
     width: 100%;
